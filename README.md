@@ -1,6 +1,6 @@
 # Sales-Dashboard
 
-##📌 Project Overview
+## Project Overview
 This project is an **interactive Sales Dashboard** built using **Power BI**.  
 It provides insights into **sales performance, profit trends, customer behavior, and payment modes** for a retail shop.  
 The goal is to demonstrate **data analytics & visualization skills** using real-world business data.
